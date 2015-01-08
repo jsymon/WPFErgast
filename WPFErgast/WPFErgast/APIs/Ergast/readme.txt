@@ -1,0 +1,11 @@
+﻿Season List				http://ergast.com/api/f1/seasons
+Race Schedule			http://ergast.com/api/f1/2012
+Race Results			http://ergast.com/api/f1/2008/5/results
+Qualifying Results		http://ergast.com/api/f1/2008/5/qualifying
+Standings				http://ergast.com/api/f1/2008/5/driverStandings		http://ergast.com/api/f1/2008/5/constructorStandings
+Driver Information		http://ergast.com/api/f1/2010/2/drivers
+Constructor Information	http://ergast.com/api/f1/2010/2/constructors
+Circuit Information		http://ergast.com/api/f1/2010/2/circuits
+Finishing Status		http://ergast.com/api/f1/2010/2/status
+Lap Times				http://ergast.com/api/f1/2011/5/laps
+Pit Stops				http://ergast.com/api/f1/2011/5/pitstops
